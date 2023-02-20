@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">MydearMechanic</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_user">User Name</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_notification">Notification</string>
+    <string name="menu_dashboard">Dashboard</string>
+    <string name="menu_profile">My Profile</string>
+    <string name="menu_service">Service Request</string>
+    <string name="menu_about">About Us</string>
+    <string name="menu_share">Share this app</string>
+    <string name="menu_rules">Rules and Regulations</string>
+    <string name="menu_language">Language</string>
+    <string name="menu_logout">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="quantity">
+        <item>Town/City</item>
+        <item>coyambadu</item>
+        <item>Kellys</item>
+        <item>VilliVakkam</item>
+        <item>Thamparam</item>
+        <item>Perukulaththur</item>
+        <item>Nungapakkam</item>
+        <item>Sulaimedu</item>
+        <item>Chenglapattu</item>
+        <item>Kanjpuram</item>
+    </string-array>
+
+    <string-array name="Dictrict">
+        <item>District</item>
+        <item>Tiruvannamalai</item>
+        <item>Tirupattur</item>
+        <item>Vellore</item>
+        <item>cudalour</item>
+    </string-array>
+
+    <string-array name="State">
+        <item>State</item>
+        <item>Karnataka</item>
+        <item>Andhra Pradesh</item>
+        <item>Assam</item>
+        <item>Goa</item>
+    </string-array>
+    <string-array name="PinCode">
+        <item>PinCode</item>
+        <item>606-753</item>
+        <item>606-635</item>
+        <item>746-933</item>
+        <item>874-383</item>
+    </string-array>
+
+
+
+
+</resources>
